@@ -10,5 +10,11 @@ nav{
 }
 main{
     position: relative;
-    left: 16%;
+    left: 0.5%;
+}
+.hr{
+    width: 90%;
+    height: 10px;
+    color: #000;
+    background-color: #000;
 }
